@@ -1,1 +1,1 @@
-[[decision trees]]  [[Machine-Learning]]
+[[Decision Trees]]  [[Machine-Learning]]

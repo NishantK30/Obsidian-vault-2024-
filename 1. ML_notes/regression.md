@@ -1,1 +1,1 @@
-[[decision trees]] [[Machine-Learning]] [[gini index]]
+[[Decision Trees]] [[Machine-Learning]] [[Gini Index]]

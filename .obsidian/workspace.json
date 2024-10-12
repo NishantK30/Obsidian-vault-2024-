@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "55115fd7eabb0b75",
+        "id": "7c55ef8477403a40",
         "type": "tabs",
         "children": [
           {
-            "id": "a0cf4287f85ac9e6",
+            "id": "e1937197575eceef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. ML_notes/decision trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8af6851300b1e02e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. ML_notes/decision trees.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. ML_notes/decision trees.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,8 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. ML_notes/decision trees.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -137,16 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. ML_notes/decision trees.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,22 +139,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0774fbc8c787d4d7",
+  "active": "e1937197575eceef",
   "lastOpenFiles": [
-    "Obsidian-vault-2024",
+    "Untitled.canvas",
+    "1. ML_notes/Tree Ensemble.md",
+    "1. ML_notes/Regression.md",
+    "1. ML_notes/One Hot Encoding.md",
+    "1. ML_notes/Gini Index.md",
+    "1. ML_notes/Entropy.md",
+    "1. ML_notes/Decision Trees.md",
+    "1. ML_notes/Classification.md",
+    "tags/Deep-Learning.md",
     "1. ML_notes/deep learning.md",
-    "1. ML_notes/regression.md",
+    "1. ML_notes/machine learning.md",
+    "Untitled.md",
+    "Attachments/Information gain formula.png",
+    "Obsidian-vault-2024-",
+    "Obsidian-vault-2024",
     "2024-10-11.md",
-    "1. ML_notes/decision trees.md",
     "Attachments/Entropy formula.png",
     "Attachments/Entropy curve.png",
-    "Untitled.canvas",
-    "1. ML_notes/tree ensemble.md",
-    "1. ML_notes/machine learning.md",
-    "tags/Deep-Learning.md",
     "tags/Machine-Learning.md",
     "tags/Data-Mining.md",
-    "1. ML_notes/classification.md",
     "Template/ML_Notes.md",
     "Template/Leetcode Question.md",
     "tags/Leetcode-Questions.md",
