@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d3e049e7dae44477",
+    "type": "split",
+    "children": [
+      {
+        "id": "55115fd7eabb0b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0cf4287f85ac9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/decision trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8af6851300b1e02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/decision trees.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab637880d7730b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "282b47e854852729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0774fbc8c787d4d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0912c5fe61df4c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5324e2ad455f2b05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "291da9d4fb7905f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "363953512cbd8cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cbe613ee513b16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. ML_notes/decision trees.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad83e304c16f4ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. ML_notes/decision trees.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "319902fb6da93773",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b14db65fb06db162",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. ML_notes/decision trees.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0774fbc8c787d4d7",
+  "lastOpenFiles": [
+    "Obsidian-vault-2024",
+    "1. ML_notes/deep learning.md",
+    "1. ML_notes/regression.md",
+    "2024-10-11.md",
+    "1. ML_notes/decision trees.md",
+    "Attachments/Entropy formula.png",
+    "Attachments/Entropy curve.png",
+    "Untitled.canvas",
+    "1. ML_notes/tree ensemble.md",
+    "1. ML_notes/machine learning.md",
+    "tags/Deep-Learning.md",
+    "tags/Machine-Learning.md",
+    "tags/Data-Mining.md",
+    "1. ML_notes/classification.md",
+    "Template/ML_Notes.md",
+    "Template/Leetcode Question.md",
+    "tags/Leetcode-Questions.md",
+    "Attachments/Elements of decision-tress.png",
+    "Attachments",
+    "4. Thoughts and Ideas/Untitled.md",
+    "Template",
+    "Indexes",
+    "tags",
+    "4. Thoughts and Ideas",
+    "3. Reviews",
+    "1. ML_notes",
+    "2.. Leetcode Questions",
+    "create a link.md",
+    "Welcome.md",
+    "www.google.com.md"
+  ]
+}
