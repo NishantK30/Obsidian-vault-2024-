@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1937197575eceef",
+            "id": "92467b87cdde6342",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.. Leetcode Questions/20.Valid Parenthesis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.. Leetcode Questions/20.Valid Parenthesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2.. Leetcode Questions/20.Valid Parenthesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2.. Leetcode Questions/20.Valid Parenthesis.md"
+              }
             }
           }
         ],
@@ -139,41 +147,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1937197575eceef",
+  "active": "92467b87cdde6342",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "tags/ML-tags/Machine-Learning.md",
+    "2.. Leetcode Questions/20.Valid Parenthesis.md",
+    "2.. Leetcode Questions/115.Min Stack.md",
     "1. ML_notes/Tree Ensemble.md",
+    "Attachments/An_Empirical_Comparison_of_Tree-Based_Learning_Alg.pdf",
+    "Attachments/The Comparison of Tree-Based Ensemble Machine Learning for Classifying Public Datasets.pdf",
+    "Attachments/412-Article Text-1448-1-10-20220216.pdf",
+    "Recovery codes.md",
+    "Template/Leetcode Question.md",
+    "tags/Leetcode-questions.md",
+    "tags/Leetcode-questions",
+    "tags/ML-tags/Leetcode-Questions.md",
+    "tags/DSA-tags/Stack.md",
+    "tags/DSA-tags",
+    "tags/ML-tags",
+    "Untitled.canvas",
     "1. ML_notes/Regression.md",
     "1. ML_notes/One Hot Encoding.md",
     "1. ML_notes/Gini Index.md",
     "1. ML_notes/Entropy.md",
     "1. ML_notes/Decision Trees.md",
     "1. ML_notes/Classification.md",
-    "tags/Deep-Learning.md",
+    "tags/ML-tags/Deep-Learning.md",
     "1. ML_notes/deep learning.md",
     "1. ML_notes/machine learning.md",
-    "Untitled.md",
     "Attachments/Information gain formula.png",
     "Obsidian-vault-2024-",
     "Obsidian-vault-2024",
     "2024-10-11.md",
     "Attachments/Entropy formula.png",
     "Attachments/Entropy curve.png",
-    "tags/Machine-Learning.md",
-    "tags/Data-Mining.md",
+    "tags/ML-tags/Data-Mining.md",
     "Template/ML_Notes.md",
-    "Template/Leetcode Question.md",
-    "tags/Leetcode-Questions.md",
     "Attachments/Elements of decision-tress.png",
     "Attachments",
     "4. Thoughts and Ideas/Untitled.md",
     "Template",
-    "Indexes",
-    "tags",
-    "4. Thoughts and Ideas",
-    "3. Reviews",
-    "1. ML_notes",
-    "2.. Leetcode Questions",
     "create a link.md",
     "Welcome.md",
     "www.google.com.md"
