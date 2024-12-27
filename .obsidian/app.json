@@ -3,5 +3,6 @@
   "newFileFolderPath": "4. Thoughts and Ideas",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
