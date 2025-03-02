@@ -100,6 +100,54 @@
             }
           },
           {
+            "id": "8d1b7c3b305abbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/CNN/A guide to convolution arithmetic for deep learning by Vincent Dumoulin and Francesco Visin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b035c35338b8e87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/CNN/Fast Algorithms for Convolutional Neural Networks by Andrew Lavin and Scott Gray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcb96a71a04aa118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/CNN/ImageNet Classification with Deep Convolutional Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076baecd162f89e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/CNN/Striving for Simplicity- The All Convolutional Net.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2ec1b04e2ac3ff31",
             "type": "leaf",
             "state": {
@@ -112,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -178,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. ML_notes/Padding and filters in CNNs.md",
+                "file": "Research Papers/CNN/Striving for Simplicity- The All Convolutional Net.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. ML_notes/Padding and filters in CNNs.md",
+                "file": "Research Papers/CNN/Striving for Simplicity- The All Convolutional Net.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. ML_notes/Padding and filters in CNNs.md"
+                "file": "Research Papers/CNN/Striving for Simplicity- The All Convolutional Net.md"
               }
             }
           }
@@ -238,10 +286,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccfe73994201bdaf",
+  "active": "076baecd162f89e3",
   "lastOpenFiles": [
-    "1. ML_notes/CNN.md",
+    "Research Papers/CNN/ImageNet Classification with Deep Convolutional Neural Networks.md",
+    "Research Papers/CNN/Striving for Simplicity- The All Convolutional Net.md",
+    "Research Papers/CNN/Fast Algorithms for Convolutional Neural Networks by Andrew Lavin and Scott Gray.md",
+    "Research Papers/CNN/A guide to convolution arithmetic for deep learning by Vincent Dumoulin and Francesco Visin.md",
     "1. ML_notes/Padding and filters in CNNs.md",
+    "Research Papers/CNN",
+    "1. ML_notes/CNN.md",
     "Research Papers/Intriguing properties of Neural Networks.md",
     "1. ML_notes/Back Propogation.md",
     "1. ML_notes/Automatic Differentiation, Autograd().md",
@@ -263,10 +316,6 @@
     "Research Papers/Natural Language Processing/Word2Vec.md",
     "tags/ML-research-tags/Text classification.md",
     "tags/ML-research-tags/Naive Bayes.md",
-    "Research Papers/Natural Language Processing/Influence of Word Normalization on Text Classification.md",
-    "tags/ML-research-tags/NLP.md",
-    "Template/Untitled.md",
-    "Template/Citations.md",
     "tags/ML-research-tags",
     "Research Papers/Natural Language Processing",
     "Research Papers",
@@ -275,7 +324,6 @@
     "Attachments/412-Article Text-1448-1-10-20220216.pdf",
     "tags/Leetcode-questions",
     "tags/DSA-tags",
-    "tags/ML-tags",
     "Untitled.canvas",
     "Attachments/Information gain formula.png",
     "Attachments/Entropy formula.png",
