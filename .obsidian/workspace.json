@@ -4,22 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "7c55ef8477403a40",
+        "id": "83547897c513959b",
         "type": "tabs",
         "children": [
           {
-            "id": "d289d51f919878d4",
+            "id": "1609bee84fa2398a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "34e81536da2f7111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.. Leetcode Questions/347. Top k frequent questions.md",
+                "file": "1. ML_notes/Tensor Initialization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64fafd145a52b84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/Pytorch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2281ecc7d6638390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/Automatic Differentiation, Autograd().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d81d18894b538d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/Back Propogation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32a8293aeff0a41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Intriguing properties of Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345eb050d09a3c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/Padding and filters in CNNs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfe73994201bdaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/Padding and filters in CNNs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ec1b04e2ac3ff31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. ML_notes/Tensors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -48,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#template",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5015296936035
   },
   "right": {
     "id": "291da9d4fb7905f0",
@@ -85,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.. Leetcode Questions/347. Top k frequent questions.md",
+                "file": "1. ML_notes/Padding and filters in CNNs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.. Leetcode Questions/347. Top k frequent questions.md",
+                "file": "1. ML_notes/Padding and filters in CNNs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +218,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.. Leetcode Questions/347. Top k frequent questions.md"
+                "file": "1. ML_notes/Padding and filters in CNNs.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,48 +238,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d289d51f919878d4",
+  "active": "ccfe73994201bdaf",
   "lastOpenFiles": [
-    "tags/DSA-tags/Check later.md",
-    "2.. Leetcode Questions/347. Top k frequent questions.md",
-    "tags/DSA-tags/heap.md",
-    "tags/DSA-tags/Stack.md",
-    "2.. Leetcode Questions/115.Min Stack.md",
-    "Template/Leetcode Question.md",
-    "2.. Leetcode Questions/20.Valid Parenthesis.md",
+    "1. ML_notes/CNN.md",
+    "1. ML_notes/Padding and filters in CNNs.md",
+    "Research Papers/Intriguing properties of Neural Networks.md",
+    "1. ML_notes/Back Propogation.md",
+    "1. ML_notes/Automatic Differentiation, Autograd().md",
+    "1. ML_notes/Pytorch.md",
+    "1. ML_notes/He Initialization.md",
+    "1. ML_notes/Tensor Initialization.md",
+    "1. ML_notes/Tensors.md",
+    "1. ML_notes/Xavier or  Glorot Initialization.md",
+    "1. ML_notes/Computational Graphs.md",
+    "1. ML_notes/Glorot Initialization.md",
+    "Xavier",
+    "Template/ML_Notes.md",
     "tags/ML-tags/Machine-Learning.md",
-    "1. ML_notes/Tree Ensemble.md",
+    "1. ML_notes/Decision Trees.md",
+    "1. ML_notes/Classification.md",
+    "tags/ML-research-tags/Not yet read.md",
+    "Research Papers/Natural Language Processing/Naive Bayes and Text Classification  I - Introduction and theory.md",
+    "Research Papers/Natural Language Processing/Improved Word2Vec Model.md",
+    "Research Papers/Natural Language Processing/Word2Vec.md",
+    "tags/ML-research-tags/Text classification.md",
+    "tags/ML-research-tags/Naive Bayes.md",
+    "Research Papers/Natural Language Processing/Influence of Word Normalization on Text Classification.md",
+    "tags/ML-research-tags/NLP.md",
+    "Template/Untitled.md",
+    "Template/Citations.md",
+    "tags/ML-research-tags",
+    "Research Papers/Natural Language Processing",
+    "Research Papers",
     "Attachments/An_Empirical_Comparison_of_Tree-Based_Learning_Alg.pdf",
     "Attachments/The Comparison of Tree-Based Ensemble Machine Learning for Classifying Public Datasets.pdf",
     "Attachments/412-Article Text-1448-1-10-20220216.pdf",
-    "Recovery codes.md",
-    "tags/Leetcode-questions.md",
     "tags/Leetcode-questions",
-    "tags/ML-tags/Leetcode-Questions.md",
     "tags/DSA-tags",
     "tags/ML-tags",
     "Untitled.canvas",
-    "1. ML_notes/Regression.md",
-    "1. ML_notes/One Hot Encoding.md",
-    "1. ML_notes/Gini Index.md",
-    "1. ML_notes/Entropy.md",
-    "1. ML_notes/Decision Trees.md",
-    "1. ML_notes/Classification.md",
-    "tags/ML-tags/Deep-Learning.md",
-    "1. ML_notes/deep learning.md",
-    "1. ML_notes/machine learning.md",
     "Attachments/Information gain formula.png",
-    "Obsidian-vault-2024-",
-    "Obsidian-vault-2024",
-    "2024-10-11.md",
     "Attachments/Entropy formula.png",
     "Attachments/Entropy curve.png",
-    "tags/ML-tags/Data-Mining.md",
-    "Template/ML_Notes.md",
-    "Attachments/Elements of decision-tress.png",
-    "Attachments",
-    "4. Thoughts and Ideas/Untitled.md",
-    "Template",
-    "create a link.md"
+    "Attachments/Elements of decision-tress.png"
   ]
 }
